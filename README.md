@@ -1,3 +1,3 @@
 # myportfolio
 
-Deployed Web Application - [CLICK HERE](rajsinxh.pythonanywhere.com)
+Deployed Web Application - [CLICK HERE](rajmzs.pythonanywhere.com)
